@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="justinmaharjan" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **mhrjastin@gmail.com**
 
