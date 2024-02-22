@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Justin Maharjan👋</h1>
-- 🌱 I’m currently learning **JavaScript.**
+ 🌱 I’m currently learning JavaScript.
 
-- 📫 How to reach me **mhrjastin@gmail.com**
+ 📫 How to reach me **mhrjastin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
