@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Justin Maharjan👋</h1>
+<h1 align="center">Hi, I'm Jastin Maharjan👋</h1>
  🌱 I’m currently learning JavaScript.
 
  📫 How to reach me **mhrjastin@gmail.com**
